@@ -1,2 +1,2 @@
-# pizza-shop
+# 🍕 | Pizza SHOP | 🛍
 Pizza🍕 Python Shop🛍 Game🎮
